@@ -1,0 +1,7 @@
+D:\Netcentric\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe.config
+D:\Netcentric\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe
+D:\Netcentric\jaggedArray\jaggedArray\bin\Debug\jaggedArray.pdb
+D:\Netcentric\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.AssemblyReference.cache
+D:\Netcentric\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.CoreCompileInputs.cache
+D:\Netcentric\jaggedArray\jaggedArray\obj\Debug\jaggedArray.exe
+D:\Netcentric\jaggedArray\jaggedArray\obj\Debug\jaggedArray.pdb
