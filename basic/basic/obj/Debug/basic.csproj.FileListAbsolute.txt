@@ -1,0 +1,7 @@
+D:\Netcentric\basic\basic\bin\Debug\basic.exe.config
+D:\Netcentric\basic\basic\bin\Debug\basic.exe
+D:\Netcentric\basic\basic\bin\Debug\basic.pdb
+D:\Netcentric\basic\basic\obj\Debug\basic.csproj.AssemblyReference.cache
+D:\Netcentric\basic\basic\obj\Debug\basic.csproj.CoreCompileInputs.cache
+D:\Netcentric\basic\basic\obj\Debug\basic.exe
+D:\Netcentric\basic\basic\obj\Debug\basic.pdb
