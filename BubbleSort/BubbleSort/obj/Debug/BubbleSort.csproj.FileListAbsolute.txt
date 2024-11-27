@@ -1,0 +1,7 @@
+D:\Netcentric\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Netcentric\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Netcentric\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Netcentric\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+D:\Netcentric\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Netcentric\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Netcentric\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
