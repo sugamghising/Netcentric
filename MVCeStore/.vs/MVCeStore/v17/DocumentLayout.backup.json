@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th\\netcentric\\MVCeStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|d:\\6th\\netcentric\\mvcestore\\mvcestore\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|solutionrelative:mvcestore\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|d:\\6th\\netcentric\\mvcestore\\mvcestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|solutionrelative:mvcestore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|d:\\6th\\netcentric\\mvcestore\\mvcestore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|solutionrelative:mvcestore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|d:\\6th\\netcentric\\mvcestore\\mvcestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BA76E6B-82D8-4585-A547-B09D1AC9AF89}|MVCeStore\\MVCeStore.csproj|solutionrelative:mvcestore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCeStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCeStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:30:44.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Views\\Category\\List.cshtml",
+              "RelativeDocumentMoniker": "MVCeStore\\Views\\Category\\List.cshtml",
+              "ToolTip": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Views\\Category\\List.cshtml",
+              "RelativeToolTip": "MVCeStore\\Views\\Category\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:30:22.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MVCeStore\\Models\\Category.cs",
+              "ToolTip": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Models\\Category.cs",
+              "RelativeToolTip": "MVCeStore\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:29:14.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MVCeStore\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\6th\\netcentric\\MVCeStore\\MVCeStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MVCeStore\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:24:13.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
